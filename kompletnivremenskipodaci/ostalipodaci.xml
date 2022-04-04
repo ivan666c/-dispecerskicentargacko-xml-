@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vremenskiPodaci>    
+    <mjesto>
+        <imeMjesta>Gacko</imeMjesta>
+    </mjesto>
+    <lokacija>
+        <imeLokacije ime="Cemerno"/>
+        <imeLokacije ime="Kosuta"/>
+        <imeLokacije ime="Fojnica"/>
+    </lokacija>
+<vlaznostVazduha>
+        <mjerenjaNaDnevnomNivou>true</mjerenjaNaDnevnomNivou>
+        <vrijemeMjerenja vrijeme="07:00"/>
+        <vrijemeMjerenja vrijeme="10:00"/>
+        <vrijemeMjerenja vrijeme="16:00"/>
+        <vrijemeMjerenja vrijeme="20:00"/>
+    </vlaznostVazduha>
+    <vjetar>
+        <mjerenjaNaDnevnomNivou>true</mjerenjaNaDnevnomNivou>
+        <brzinaVjetraISmjer>
+        <vrijemeMjerenja vrijeme="07:00"/>
+        <vrijemeMjerenja vrijeme="10:00"/>
+        <vrijemeMjerenja vrijeme="16:00"/>
+        <vrijemeMjerenja vrijeme="20:00"/>
+        </brzinaVjetraISmjer>
+     </vjetar>
+     <padavine>
+        <mjerenjaNaDnevnomNivou>true</mjerenjaNaDnevnomNivou>
+        <vrstaPadavinaIKolicina>
+        <vrijemeMjerenja vrijeme="07:00"/>
+        <vrijemeMjerenja vrijeme="10:00"/>
+        <vrijemeMjerenja vrijeme="16:00"/>
+        <vrijemeMjerenja vrijeme="20:00"/>
+        </vrstaPadavinaIKolicina>
+</vremenskiPodaci>            

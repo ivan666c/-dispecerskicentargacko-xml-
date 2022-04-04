@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dnevneVrijednostiTemperature>    
+    <mjesto>
+        <imeMjesta>Gacko</imeMjesta>
+    </mjesto>
+    <lokacijeMjerenja>
+        <imeLokacije ime="Cemerno"/>
+        <imeLokacije ime="Kosuta"/>
+        <imeLokacije ime="Fojnica"/>
+    </lokacijeMjerenja>
+    <maksimalnaDnevnaTemperatura>
+        <mjerenjaNaDnevnomNivou>true</mjerenjaNaDnevnomNivou>
+        <datumMjerenja>2022/13/03</datumMjerenja>
+        <vrijemeMjerenja="16:00" vrijednost="-1.42">
+    </maksimalnaDnevnaTemperatura>  
+    <minimalnaDnevnaTemperatura>
+        <mjerenjaNaDnevnomNivou>true</mjerenjaNaDnevnomNivou>
+        <datumMjerenja>2022/13/03</datumMjerenja>
+        <vrijemeMjerenja="07:00" vrijednost="-10.17">
+    </minimalnaDnevnaTemperatura>
+    <prosjecnaVrijednostTemperature>
+        <mjerenjaNaDnevnomNivou>true</mjerenjaNaDnevnomNivou>
+        <datumMjerenja>2022/13/03</datumMjerenja>
+        <vrijednost>-4.90</vrijednost>
+    <prosjecnaVrijednostTemperature>
+</dnevneVrijednostiTemperature>        
+
+
+

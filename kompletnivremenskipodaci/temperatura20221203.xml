@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vremenskiPodaci>    
+    <mjesto>
+        <imeMjesta>Gacko</imeMjesta>
+    </mjesto>
+    <lokacija>
+        <imeLokacije ime="Cemerno"/>
+        <imeLokacije ime="Kosuta"/>
+        <imeLokacije ime="Fojnica"/>
+    </lokacija>
+    <temperatura>
+        <mjerenjaNaDnevnomNivou>true</mjerenjaNaDnevnomNivou>
+        <datumMjerenja>2022/13/03</datumMjerenja>
+        <vrijemeMjerenja="07:00" vrijednost="-10.17"/>
+        <vrijemeMjerenja="10:00" vrijednost="-4,98"/>
+        <vrijemeMjerenja="16:00" vrijednost="-1.42"/>
+        <vrijemeMjerenja="20:00" vrijednost="-3,06"/>
+    </temperatura>
+</vremenskiPodaci>
