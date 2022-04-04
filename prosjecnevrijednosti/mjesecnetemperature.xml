@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mjesecneVrijednostiTemperature>
+    <mjesto>
+        <imeMjesta>Gacko</imeMjesta>
+    </mjesto>
+    <lokacijMjerenja>
+        <imeLokacije ime="Cemerno"/>
+        <imeLokacije ime="Kosuta"/>
+        <imeLokacije ime="Fojnica"/>
+    </lokacijaMjerenja>
+    <periodMjerenja>
+        <mjesec>mart</mjesec>
+        <svakodnevnaMjerenja>true</svakodnevnaMjerenja>
+        <brojDana>31</brojDana>
+        <maksimalnaMjesecnaTemperatura vrijednost="16.33" datum="2022-16-03"/>
+        <minimalnaMjesecnaTemperatura  vrijednost="-13.56" datum="2022-10-03"/>
+        <prosjecnaVrijednostTemperature vrijednost="4.45"/>
+    </periodMjerenja>
+<mjesecneVrijednostiTemperature>        
+

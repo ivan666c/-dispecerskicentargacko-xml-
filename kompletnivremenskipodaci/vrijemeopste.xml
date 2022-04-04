@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vremenskiPodaci>    
+    <mjesto>
+        <imeMjesta>Gacko</imeMjesta>
+    </mjesto>
+    <lokacija>
+        <imeLokacije ime="Cemerno"/>
+        <imeLokacije ime="Kosuta"/>
+        <imeLokacije ime="Fojnica"/>
+    </lokacija>
+    <mjerenjeTemperature>
+        <mjerenjaNaDnevnomNivou>true</mjerenjaNaDnevnomNivou>
+        <vrijemeMjerenja vrijeme="07:00"/>
+        <vrijemeMjerenja vrijeme="10:00"/>
+        <vrijemeMjerenja vrijeme="16:00"/>
+        <vrijemeMjerenja vrijeme="20:00"/>
+    </mjerenjeTemperature>
+</vremenskiPodaci>

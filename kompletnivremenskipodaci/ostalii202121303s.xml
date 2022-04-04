@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vremenskiPodaci>    
+    <mjesto>
+        <imeMjesta>Gacko</imeMjesta>
+    </mjesto>
+    <lokacija>
+        <imeLokacije ime="Cemerno"/>
+        <imeLokacije ime="Kosuta"/>
+        <imeLokacije ime="Fojnica"/>
+    </lokacija>
+    <vlaznostVazduha>
+        <mjerenjaNaDnevnomNivou>true</mjerenjaNaDnevnomNivou>
+        <datumMjerenja>2022/13/03</datumMjerenja>
+        <vrijemeMjerenja ="07:00" vrijednost="22"/>
+        <vrijemeMjerenja ="10:00" vrijednost="25"/>
+        <vrijemeMjerenja ="16:00" vrijednost="28"/>
+        <vrijemeMjerenja ="20:00" vrijednost="24"/>
+    </vlaznostVazduha>
+    <smjerIBrzinaVjetraUkmh>
+        <mjerenjaNaDnevnomNivou>true</mjerenjaNaDnevnomNivou>
+        <datumMjerenja>2022/13/03</datumMjerenja>
+        <vrijemeMjerenja ="07:00" brzina="17" smjer"jz"/>
+        <vrijemeMjerenja ="10:00" brzina="15" smjer"jz"/>
+        <vrijemeMjerenja ="16:00" brzina="14" smjer"jz"/>
+        <vrijemeMjerenja ="20:00" brzina="16" smjer"s"/>
+    </smjerIBrzinaVjetraUkmh>
+    <padavine>
+        <mjerenjaNaDnevnomNivou>true</mjerenjaNaDnevnomNivou>
+        <datumMjerenja>2022/13/03</datumOcitavanja>
+        <postojanjePadavina>false</postojanjePadavina>
+     </padavine>
+   </ostaliVremenskiPodaci>     

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<podaciOPrvomMjerenju>
+    <imeMjesta>Gacko</imeMjesta>
+    <datumOcitavanja>2022/13/03</datumOcitavanja>
+    <vrijemeMjerenja>07:00</vrijemeMjerenja>
+    <temperatura>-10.17</temperatura>
+    <vlaznostVazduha>22</vlaznostVazduha>
+    <brzinaVjetra>17</brzina>
+    <smjerVjetra>jz</smjerVjetra>
+    <primaociPodatka>
+        <nazivPrimaoca naziv="rtrs"/>
+        <nazivPrimaoca naziv="riteGacko"/>
+        <nazivPrimaoca naziv="radioGAcko"/>
+    </primaociPodatka>
+<podaciOPrvomMjerenju> 
+
+
+
+        
+
+      
