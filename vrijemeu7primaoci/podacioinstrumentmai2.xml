@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<listaInstrumenata>   
+    <instrumenat>
+        <nazivInstrumenta>termometar</nazivInstrumenta>
+        <proizvodjac>Le Crosse Technology</proizvodjac>
+        <godinaKupovine>2021</proizvodjac>
+        <brojInstrumenata>3</brojInstrumenata>
+        <cijenaJednogInstrumenta>10000</cijena>
+        <datumTestiranjaTacnosti>2022/02/11</datumTestiranjaTacnosti>
+        <narednoTestiranje>2022/05/11</datumTestiranjaTacnosti>
+        <testoveMjerenjaRadio>Marko Markovic</testoveMjerenjaRadio>
+     </instrumenat>
+
+     <instrumenat>
+        <nazivInstrumenta>higrometar</nazivInstrumenta>
+        <proizvodjac>Thermco<proizvodjac>
+        <godinaKupovine>2020</godinaKupovine>
+        <brojInstrumenata>1</brojInstrumenata>
+        <cijena>6000</cijena>
+        <datumTestiranjaTacnosti>2022/02/11</datumTestiranjaTacnosti>
+        <narednoTestiranje>2022/05/11</datumTestiranjaTacnosti>
+        <testoveMjerenjaRadio>Marko Markovic</testoveMjerenjaRadio>
+    </instrumenat>
+
+    <instrumenat>
+        <nazivInstrumenta>pluviometar</nazivInstrumenta>
+        <proizvodjac>Omega</proizvodjac>
+        <godinaKupovine>2021</proizvodjac>
+        <brojInstrumenata>1</brojInstrumenata>
+        <cijena>8000</cijena>
+        <datumTestiranjaTacnosti>2022/02/11</datumTestiranjaTacnosti>
+        <narednoTestiranje>2022/05/11</datumTestiranjaTacnosti>
+        <testoveMjerenjaRadio>Marko Markovic</testoveMjerenjaRadio>
+        </instrumenat>
+</listaInstrumenata>

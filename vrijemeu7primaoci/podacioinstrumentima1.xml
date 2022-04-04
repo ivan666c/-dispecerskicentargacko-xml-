@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lokacija nazivLokacije="Fojnica">
+    <listaInstrumenata>
+        <instrumenat>
+            <nazivInstrumenta>termometar</nazivInstrumenta>
+            <proizvodjac>Le Crosse Technology</proizvodjac>
+            <godinaKupovine>2021</proizvodjac>
+            <cijena>10000</cijena> 
+         </instrumenat>
+
+        <instrumenat>
+            <nazivInstrumenta>higrometar</nazivInstrumenta>
+            <proizvodjac>Thermco<proizvodjac>
+            <godinaKupovine>2020</godinaKupovine>
+            <cijena>6000</cijena>
+        </instrumenat>
+    </listaInstrumenata>   
+</lokacija>
+
+<lokacija nazivLokacije="Cemerno">
+     <listaInstrumenata>
+        <instrumenat>
+            <nazivInstrumenta>termometar</nazivInstrumenta>
+            <proizvodjac>Le Crosse Technology</proizvodjac>
+            <godinaKupovine>2021</proizvodjac>
+            <cijena>10000</cijena> 
+         </instrumenat>
+          
+        <instrumenat>
+            <nazivInstrumenta>pluviometar</nazivInstrumenta>
+            <proizvodjac>Omega</proizvodjac>
+            <godinaKupovine>2021</proizvodjac>
+            <cijena>8000</cijena> 
+         </instrumenat>
+    </listaInstrumenata>
+</lokacija>
+
+<lokacija nazivLokacije="Kosuta">
+    <listaInstrumenata>
+        <instrumenat>
+            <nazivInstrumenta>termometar</nazivInstrumenta>
+            <proizvodjac>Le Crosse Technology</proizvodjac>
+            <godinaKupovine>2021</proizvodjac>
+            <cijena>10000</cijena> 
+         </instrumenat>
+    </listaInstrumenata>
+</lokacija>
+
+
